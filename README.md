@@ -14,3 +14,7 @@ The different models have been implemented in Python and for each of them three 
 
 The scripts can be changed easily so that the analysis is not conducted for the whole world but for a specific country.
 There is a presentation which briefly analyses the findings of the analysis and compares the different models and methods.
+
+Remark:
+The script was developed with python 3.5 and any version above should work as well - backwards compatibility is not guaranteed though. I recommend creating a new python virtual environment and installing the required dependencies from the requirements.txt file by running the following command from within the KatzenAnalyser\ directory:
+pip install -r requirements.txt
